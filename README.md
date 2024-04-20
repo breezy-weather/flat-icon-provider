@@ -1,10 +1,10 @@
-<h1 align="center">Pixel Icon Provider</h1>
+<h1 align="center">Flat Icon Provider</h1>
 
 ![Icon](fastlane/metadata/android/en-US/images/icon.png)
 
-Open source rewrite of Geometric Weather Pixel Icon Provider for use in Breezy Weather.
+Open source rewrite of Geometric Weather Flat Icon Provider for use in Breezy Weather.
 
-[Download from releases page](https://github.com/breezy-weather/pixel-icon-provider/releases)
+[Download from releases page](https://github.com/breezy-weather/flat-icon-provider/releases)
 
 # License
 
